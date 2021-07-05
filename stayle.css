@@ -11,8 +11,7 @@ h2{
 }
 h3{
     color:white;
-    background-image: linear-gradient(teal,green);
-    padding: 5px 40px;
+    background-image:linear-gradient(maroon,green);
 }
 p{
     color:black ;
@@ -24,7 +23,7 @@ p{
     
 }
 .half-width{
-width: 60%;
+width: 50%;
 padding-left: 4%;
 
 }
@@ -36,11 +35,26 @@ padding-left: 4%;
     margin-bottom: 100px;
 }
 .link-button{
-    text-decoration: seagreen;
+    text-decoration: none;
     background-image: linear-gradient(teal,green);
     padding: 5px 40px;
     border-radius: 10px;
     color:snow;
     font-weight:bold;
-
+}
+footer p{
+    text-align: center;
+}
+.experience{
+    width: 40%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px green;
+}
+#bank{
+    border-left: 7px magenta;
+    border-image: linear-gradient(red,cyan);
+    border-image-slice: 1;
 }
